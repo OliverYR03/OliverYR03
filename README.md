@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate web developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliveryr03&label=Profile%20views&color=0e75b6&style=flat" alt="oliveryr03" /> </p>
 
